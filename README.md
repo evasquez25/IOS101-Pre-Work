@@ -25,6 +25,22 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+My favorite apps: 
+1. Notion
+- Very useful for organizing things.
+- Very simple UI.
+
+2. Instagram:
+- Ability to watch stories, see posts, and watch reels.
+- Dark Mode option.
+
+3. Photo App:
+- Automatic stories made from stored photos.
+- Many useful folders that organizes folders automatically.
+
+New App Idea:
+If I were to build a new mobile app, it would be a Tip Calculator. It will allow users to input bill amount and select tip percentage to quickly figure out how much they are tiping. Additionally, the app will allow users to quickly split the bill among a large party by dividing the total bill including tip evenly among all memebers of the party, or by inputing the exact amount each member spent on food, the tax percentage, and the tip percentage. The app will also allow the user to input phone numbers or emails for each party member so they are sent a reminder of how much they owe the person paying! The app will also have the functionality to add people from a user's phonebook to the app as friends so they can easily add them to a bill instead of needing to input their number everytime they split a bill together. 
+
 ## Notes
 
 The biggest challenge when building this app was learning how to use XCode and figuiring out where all the important panels could be found. 
