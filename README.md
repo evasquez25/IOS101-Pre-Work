@@ -1,4 +1,4 @@
-# Prework - *My First IOS App*
+# Prework - *My First iOS App*
 
 Submitted by: **Eric Vasquez Reyes**
 
